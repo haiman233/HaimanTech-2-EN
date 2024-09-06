@@ -1,0 +1,10 @@
+id: Better-Supreme
+name: Better-Supreme
+depends: []
+pluginDepends:
+- Supreme
+version: Release-EN-1.0
+description: Better-Supreme
+authors:
+- haiman233
+repo: https://github.com/haiman233/HaimanTech2-EN

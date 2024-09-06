@@ -1,0 +1,7 @@
+hm_supreme:
+  lateInit: false
+  type: normal
+  item:
+    material: LIGHT_BLUE_GLAZED_TERRACOTTA
+    name: '&c&lBetter Supreme Generators'
+  tier: 0
